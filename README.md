@@ -62,3 +62,18 @@ If you're already familiar with Keras and TensorFlow, you're ready to begin to g
 - Data shuffling
 - Data repeating
 - Data batch processing
+### [Part 9.3](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/9/TF_9_3.ipynb)
+#### TFRecord
+- Writing
+-  Reading
+-  Compressing
+### [Part 10](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/10/TF_10.ipynb)
+#### Protobufs
+- Writing
+-  Loading
+-  Special serialization
+### [Part 11](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/11/TF_11.ipynb)
+- One-Hot vectors
+- Encoding categorical features using embeddings
+### [Part 12](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/12/TF_12.ipynb)
+-The TensorFlow datasets
