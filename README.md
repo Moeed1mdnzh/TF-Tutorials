@@ -44,3 +44,21 @@ If you're already familiar with Keras and TensorFlow, you're ready to begin to g
 ### [Part 7](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/customized/7/TF_7.ipynb)
 - Custom training loops
 ## DataAPI
+### [Part 8](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/8/TF_8.ipynb)
+- Data slicing
+- Chaining trasformation
+- Mapping
+- Applying
+- Filtering
+- Data shuffling
+### [Part 9.1](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/9/TF_9_1.ipynb)
+- Data splitting
+### [Part 9.2](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/9/TF_9_2.ipynb)
+- Interleaving lines from multiple files
+- #### A helper function
+- Data loading
+- Data splitting
+- Data preprocessing
+- Data shuffling
+- Data repeating
+- Data batch processing
