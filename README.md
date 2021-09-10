@@ -76,4 +76,4 @@ If you're already familiar with Keras and TensorFlow, you're ready to begin to g
 - One-Hot vectors
 - Encoding categorical features using embeddings
 ### [Part 12](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/12/TF_12.ipynb)
--The TensorFlow datasets
+- The TensorFlow datasets
