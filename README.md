@@ -55,7 +55,7 @@ If you're already familiar with Keras and TensorFlow, you're ready to begin to g
 - Data splitting
 ### [Part 9.2](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/9/TF_9_2.ipynb)
 - Interleaving lines from multiple files
-- #### A helper function
+#### A helper function
 - Data loading
 - Data splitting
 - Data preprocessing
