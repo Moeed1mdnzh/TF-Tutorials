@@ -4,15 +4,43 @@ A complete TensorFlow cheat sheet following the chapters 12 and 13 from the [Han
 Every code has been already ran in a jupyternote book.If you don't want to use your own machine, you can use google colab. 
 # Who is this tutorial for?
 If you're already familiar with Keras and TensorFlow, you're ready to begin to get reminded or if you're just following the book mentioned above, I recommend reading the tutorials here along continuing the chapters 12 and 13 from the book
-# Contents
+# Contents along the covered things
 ## Basics
 ### [Part 1](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/basics/1/TF_1.ipynb)
-- Tensor, matrix and scala
+- Tensor, matrix and scalar
 - shape and data type
 - Transpose of a tensor
 - Sum, Mean, Min, Max
 - Common-Operators
 - NumPy Conversion
 - Type Conversions
+### [Part 2](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/basics/2/TF_2.ipynb)
+- Variables
+- Variable-Assignment
+- String tensor
+- Ragged tensor
+- Sparse tensor
+- Tensor array
+- Sets
 ## Cusomized Components
+### [Part 3](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/customized/3/TF_3.ipynb)
+- Custom loss function
+- Custom activation function
+- Custom regularizer
+- Custom initializer
+### [Part 4](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/customized/4/TF_4.ipynb)
+- Custom metric
+- Custom layer
+- Multi-Input layer
+### [Part 5](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/customized/5/TF_5.ipynb)
+- Custom model
+- Model internal based loss
+### [Part 6](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/customized/6/TF_6.ipynb)
+- Autodiff
+- Auto erasing
+- Autodiff for constants
+- Autodiff for vectors
+- Custom gradient
+### [Part 7](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/customized/7/TF_7.ipynb)
+- Custom training loops
 ## DataAPI
