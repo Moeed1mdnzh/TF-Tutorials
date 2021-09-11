@@ -8,7 +8,7 @@ If you're already familiar with Keras and TensorFlow, you're ready to begin to g
 ## Basics
 ### [Part 1](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/basics/1/TF_1.ipynb)
 - Tensor, matrix and scalar
-- shape and data type
+- Shape and data type
 - Transpose of a tensor
 - Sum, Mean, Min, Max
 - Common-Operators
