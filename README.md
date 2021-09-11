@@ -46,7 +46,7 @@ If you're already familiar with Keras and TensorFlow, you're ready to begin to g
 ## DataAPI
 ### [Part 8](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/DataAPI/8/TF_8.ipynb)
 - Data slicing
-- Chaining trasformation
+- Chaining transformation
 - Mapping
 - Applying
 - Filtering
