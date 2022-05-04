@@ -4,7 +4,7 @@ A complete TensorFlow cheat sheet following the chapters 12 and 13 from the [Han
 Every code has been already ran in a jupyter notebook.If you don't want to use your own machine, you can use google colab. 
 # Who is this tutorial for?
 If you're already familiar with Keras and TensorFlow, you're ready to begin to get reminded or if you're just following the book mentioned above, I recommend reading the tutorials here along continuing the chapters 12 and 13 from the book
-# Contents along the covered things
+# Contents
 ## Basics
 ### [Part 1](https://github.com/Moeed1mdnzh/TF-Tutorials/blob/master/basics/1/TF_1.ipynb)
 - Tensor, matrix and scalar
